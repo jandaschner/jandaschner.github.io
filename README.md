@@ -48,7 +48,7 @@ Purpose. I use Google Analytics to analyze and constantly improve the use of the
 #### 3.4 Cookies and Similar Technologies
 
 
-What Are Cookies? The Website uses “cookies” – small text files that are placed on your computer, mobile device and/or stored by the browser. The basis for the processing of Data via cookies are our legitimate interests.
+What Are Cookies? The Website uses “cookies” – small text files that are placed on your computer, mobile device and/or stored by the browser. The basis for the processing of Data via cookies are my legitimate interests.
 
 
 ### 4. Why I Process Data (“Purposes”)
