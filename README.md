@@ -26,7 +26,7 @@ The controller of data processing is Jan Daschner. You can contact me via email 
 
 3.1 In General
 
-I process personal data that you as a user of the App make available to me, for example by using my App.
+I process personal data that you as a user of the App make available to me, for example by using my App or rating it on the AppStore.
 
 3.2 Data You Provide 
 
