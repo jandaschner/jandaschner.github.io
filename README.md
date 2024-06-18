@@ -26,11 +26,11 @@ The controller of data processing is Jan Daschner. You can contact me via email 
 
 3.1 In General
 
-I process personal data that you as a user of the App make available to me, for example by using my App or rating it on the AppStore.
+I process personal data that you as a user of the App make available to me, for example by using the App or rating it on the AppStore.
 
 3.2 Data You Provide 
 
-When using my App, you have the option of transmitting health and movement data (namely duration, distance, weight, weights and reps, exercises, calories, protein, fat and carbohydrates, recipes and your goals) by manual input in the app, which are stored on your mobile device. No data is imported from "Apple Health" or similar services/applications.
+When using the App, you have the option of transmitting health and movement data (namely duration, distance, weight, weights and reps, exercises, calories, protein, fat and carbohydrates, recipes and your goals) by manual input in the app, which are stored on your mobile device. No data is imported from "Apple Health" or similar services/applications.
 
 
 3.3 Service Use
@@ -155,7 +155,7 @@ We are committed to protecting your Data and implement appropriate technical and
 
 9. Changes to the Privacy Policy
 
-9.1 General
+*9.1 General*
 
 Jan Daschner may change this Privacy Policy.
 
