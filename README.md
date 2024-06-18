@@ -43,7 +43,7 @@ _Google Analytics for Mobile_
 
 General. For Apps on iOS I use Google’s Google Analytics for Mobile. User data is transmitted in an anonymized form to Google. The App uses identification for mobile devices, including the Google Advertising ID (“GAID”) and the ID for Advertising for iOS (“IDFA”), as well as technologies similar to cookies for the use execution of the Analytics for mobile service.
 
-Purpose. I use Google Analytics to analyze and constantly improve the use of the App. Through the statistics I am able to improve the App for the benefit of the users. In those special cases in which personal data is transmitted to the USA, Google is certified via EU-US privacy shield. The basis for the processing of Data are our legitimate interests.
+Purpose. I use Google Analytics to analyze and constantly improve the use of the App. Through the statistics I am able to improve the App for the benefit of the users. In those special cases in which personal data is transmitted to the USA, Google is certified via EU-US privacy shield. The basis for the processing of Data are my legitimate interests.
 
 #### 3.4 Cookies and Similar Technologies
 
@@ -77,7 +77,7 @@ Enforcement. I process your Data, if I think it’s necessary for security purpo
 
 #### 5.1 General
 
-Health data will never be shared with advertisers or similar agencies. Your Health Data connot be accessed by the developer and third parties.
+Health data will never be shared with advertisers or similar agencies. Your Health Data cannot be accessed by the developer and third parties.
 
 
 
@@ -136,12 +136,12 @@ You have the right to file a complaint with your local supervisory authority, if
 
 #### 8.1 Legal Bases
 
-Data protection laws regulate that we are only allowed to collect and process your Data, if we have lawful bases for processing. The lawfulness of processing of Data stems from:
+Data protection laws regulate that I am only allowed to collect and process your Data, if I have lawful bases for processing. The lawfulness of processing of Data stems from:
 
 your (explicit) consent in cases where you have given (explicit) consent to the processing;
-the necessity for the performance of your user contract, e.g. where Data is needed for a satisfactory use of the Product; or
-legitimate interests pursued by VisualHype or a third party, e.g. our use of cookies, plug-ins, or targeted advertising.
-Our legitimate interests include protecting you, me, or others from security threats or fraud, complying with all applicable laws, managing and improving the business (e.g. customer service, reporting) including possible corporate transactions (e.g. M&A), enabling users to share their and connect via their fitness experiences, and express all fitness and health-related opinions.
+the necessity for the performance of your user contract, e.g. where Data is needed for a satisfactory use of the App; or
+legitimate interests pursued by the developer or a third party, e.g. the use of cookies, plug-ins, or targeted advertising.
+My legitimate interests include protecting you, me, or others from security threats or fraud, complying with all applicable laws, managing and improving the business (e.g. customer service, reporting).
 
 #### 8.2 Security Measures
 
@@ -155,7 +155,7 @@ Jan Daschner may change this Privacy Policy.
 
 #### 9.2 Material Changes
 
-If I make material changes to it, I will provide notice directly in the App, or by other means (e.g. via email), to offer you the opportunity to review the changes before they become effective. Material changes could, for example, include further tracking, profiling, and analytics services. Should your consent be necessary, I will ask for it before the changes become effective. If you object to any changes, you may need to close your account as it might not function properly.
+If I make material changes to it, I will provide notice directly in the App, or by other means (e.g. via email), to offer you the opportunity to review the changes before they become effective. Material changes could, for example, include further tracking, profiling, and analytics services. Should your consent be necessary, I will ask for it before the changes become effective. If you object to any changes, you may need to delete the App.
 
 #### 9.3 Last Updated
 
