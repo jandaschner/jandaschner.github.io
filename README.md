@@ -35,11 +35,11 @@ When using the App, you have the option of transmitting health and movement data
 
 #### 3.3 Service Use
 
-Google Analytics
+_Google Analytics_
 
 The App uses Google Analytics, a web analysis service of Google. Google Analytics uses cookies. I use Google Analytics to analyze and constantly improve the use of the App. 
 
-Google Analytics for Mobile
+_Google Analytics for Mobile_
 
 General. For Apps on iOS I use Google’s Google Analytics for Mobile (for more information see here). User data is transmitted in an anonymized form to Google. The App uses identification for mobile devices, including the Google Advertising ID (“GAID”) and the ID for Advertising for iOS (“IDFA”), as well as technologies similar to cookies for the use execution of the Analytics for mobile service.
 
@@ -77,20 +77,19 @@ Enforcement. I process your Data, if I think it’s necessary for security purpo
 
 #### 5.1 General
 
-Health data will never be shared with advertisers or similar agencies.
+Health data will never be shared with advertisers or similar agencies. Your Health Data connot be accessed by the developer and third parties.
 
 
 
 #### 5.4 Service Providers and Other Third Party Services
 
-Service Providers. I share your information to others, who help me provide and improve the App (e.g. maintenance, analysis, audit, payments, fraud detection, marketing and development). Service providers will have access to your information as reasonably necessary to perform these tasks on our behalf, and are obligated not to disclose or use it for other purposes. I use processors such as Apple, Google, Facebook.
+Service Providers. I share your information to others, who help me provide and improve the App (e.g. maintenance, analysis, audit, payments, fraud detection, marketing and development). Service providers will have access to your information as reasonably necessary to perform these tasks on our behalf, and are obligated not to disclose or use it for other purposes. I use processors such as Apple, Google.
 
 ### 6. How Long We Store Data
 
 #### 6.1 Storage Period
 
-The Data is stored on your device as long as you do not delete it from the App.
-
+The Data is stored on your device as long as you do not delete it from the App. Your health data is not accessible for the developer and third parties.
 
 
 ### 7. Which Rights You Have
@@ -111,9 +110,6 @@ You have the right to obtain (i) confirmation as to whether or not your Data is 
 
 You have the right to obtain the rectification of inaccurate Data concerning you from us. In case the Data processed by us is not correct, we will rectify these without undue delay and inform you of this rectification. Please note that (i) you can rectify much of your information in the settings and (ii) it is not technically possible for us to rectify all kinds of data in our Product.
 
-#### 7.5 Right to Erasure
-
-You have the right to delete Data we store about you. Should you decide to do so, we will delete your “StepsMate Friends” account upon message to that effect. For this purpose, please use the email address mail@stepsmate.app. After receiving your message with that effect, we will delete your “StepsMate Friends” account as a whole and remove all data stored on our server. You can delete the data on your mobile device by deleting the app itself, however this will not delete the data stored by the “StepsMate Friends”.
 
 #### 7.6 Right to Restriction of Processing
 
@@ -145,11 +141,11 @@ Data protection laws regulate that we are only allowed to collect and process yo
 your (explicit) consent in cases where you have given (explicit) consent to the processing;
 the necessity for the performance of your user contract, e.g. where Data is needed for a satisfactory use of the Product; or
 legitimate interests pursued by VisualHype or a third party, e.g. our use of cookies, plug-ins, or targeted advertising.
-Our legitimate interests include protecting you, VisualHype, or others from security threats or fraud, complying with all applicable laws, managing and improving our business (e.g. customer service, reporting) including possible corporate transactions (e.g. M&A), enabling users to share their and connect via their fitness experiences, and express all fitness and health-related opinions.
+Our legitimate interests include protecting you, me, or others from security threats or fraud, complying with all applicable laws, managing and improving the business (e.g. customer service, reporting) including possible corporate transactions (e.g. M&A), enabling users to share their and connect via their fitness experiences, and express all fitness and health-related opinions.
 
 #### 8.2 Security Measures
 
-We are committed to protecting your Data and implement appropriate technical and organizational security measures to protect it against any unauthorized or unlawful processing and against any accidental loss, destruction, or damage. Those security measures are constantly revised to comply with the latest technological developments.
+I am committed to protecting your Data and implement appropriate technical and organizational security measures to protect it against any unauthorized or unlawful processing and against any accidental loss, destruction, or damage. Those security measures are constantly revised to comply with the latest technological developments.
 
 ### 9. Changes to the Privacy Policy
 
@@ -159,7 +155,7 @@ Jan Daschner may change this Privacy Policy.
 
 #### 9.2 Material Changes
 
-If we make material changes to it, we will provide notice directly in our Products, or by other means (e.g. via email), to offer you the opportunity to review the changes before they become effective. Material changes could, for example, include further tracking, profiling, and analytics services. Should your consent be necessary, we will ask for it before the changes become effective. If you object to any changes, you may need to close your account as it might not function properly.
+If I make material changes to it, I will provide notice directly in the App, or by other means (e.g. via email), to offer you the opportunity to review the changes before they become effective. Material changes could, for example, include further tracking, profiling, and analytics services. Should your consent be necessary, I will ask for it before the changes become effective. If you object to any changes, you may need to close your account as it might not function properly.
 
 #### 9.3 Last Updated
 
