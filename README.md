@@ -9,7 +9,7 @@
 
 #### 1.1
 
-Jan Daschner, email address: gymplotapp@gmail.com (“Email Address”), processes your personal data when you use the app (“App”). The processing of your personal data takes place in compliance with the General Data Protection Regulation (“GDPR”).
+Jan Daschner ("I"), email address: gymplotapp@gmail.com (“Email Address”), processes your personal data when you use the app (“App”). The processing of your personal data takes place in compliance with the General Data Protection Regulation (“GDPR”).
 
 #### 1.2
 
