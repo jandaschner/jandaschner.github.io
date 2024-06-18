@@ -41,7 +41,7 @@ The App uses Google Analytics, a web analysis service of Google. Google Analytic
 
 _Google Analytics for Mobile_
 
-General. For Apps on iOS I use Google’s Google Analytics for Mobile (for more information see here). User data is transmitted in an anonymized form to Google. The App uses identification for mobile devices, including the Google Advertising ID (“GAID”) and the ID for Advertising for iOS (“IDFA”), as well as technologies similar to cookies for the use execution of the Analytics for mobile service.
+General. For Apps on iOS I use Google’s Google Analytics for Mobile. User data is transmitted in an anonymized form to Google. The App uses identification for mobile devices, including the Google Advertising ID (“GAID”) and the ID for Advertising for iOS (“IDFA”), as well as technologies similar to cookies for the use execution of the Analytics for mobile service.
 
 Purpose. I use Google Analytics to analyze and constantly improve the use of the App. Through the statistics I am able to improve the App for the benefit of the users. In those special cases in which personal data is transmitted to the USA, Google is certified via EU-US privacy shield. The basis for the processing of Data are our legitimate interests.
 
